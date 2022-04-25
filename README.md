@@ -14,6 +14,8 @@ Azure chat bot for food ordering
 
 <img width="859" alt="Screenshot 2022-04-25 203028" src="https://user-images.githubusercontent.com/103993717/165120519-6f8863af-cca9-42bd-927e-5e236bd34490.png">
 
+Some of the screenshots taken in the process while creating and deploying Azure chat bot
+
 
 
 
