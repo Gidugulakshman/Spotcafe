@@ -26,7 +26,7 @@ Some of the screenshots taken in the process while creating and deploying Azure 
 <img width="941" alt="Screenshot 2022-04-25 125948" src="https://user-images.githubusercontent.com/103993717/165121952-e9881931-2699-48e5-985b-8ac8a0dda580.png">
 
 
-
+<img width="952" alt="Screenshot 2022-04-25 191418" src="https://user-images.githubusercontent.com/103993717/165122188-b63593cb-80fd-471c-83d6-78e8597908bc.png">
 
 
 
